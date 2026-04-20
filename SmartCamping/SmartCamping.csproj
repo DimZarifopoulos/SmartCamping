@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{55E5A103-086D-4B10-AFEE-94B08F12B4CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SmartCamping</RootNamespace>
+    <AssemblyName>SmartCamping</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppState.cs" />
+    <Compile Include="AttractionInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttractionInfo.Designer.cs">
+      <DependentUpon>AttractionInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="energy\Battery.cs" />
+    <Compile Include="Cache.cs" />
+    <Compile Include="CanopyPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanopyPanel.Designer.cs">
+      <DependentUpon>CanopyPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="energy\ClimateControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="energy\ClimateControlPanel.Designer.cs">
+      <DependentUpon>ClimateControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="energy\ClimateControl.cs" />
+    <Compile Include="energy\EnergyConsumption.cs" />
+    <Compile Include="energy\EnergyPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="energy\EnergyPanel.Designer.cs">
+      <DependentUpon>EnergyPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="events\EventInfo.cs" />
+    <Compile Include="events\EventsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="events\EventsPanel.Designer.cs">
+      <DependentUpon>EventsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="food\Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food\Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="food\Checkout.Designer.cs">
+      <DependentUpon>Checkout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food\Food.cs" />
+    <Compile Include="food\FoodList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="food\FoodList.Designer.cs">
+      <DependentUpon>FoodList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food\DeliveryTimer.cs" />
+    <Compile Include="LandmarksPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LandmarksPanel.Designer.cs">
+      <DependentUpon>LandmarksPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LightningPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LightningPanel.Designer.cs">
+      <DependentUpon>LightningPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShelterPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShelterPanel.Designer.cs">
+      <DependentUpon>ShelterPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="energy\SolarPanelSystem.cs" />
+    <Compile Include="tent\Conditions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\Conditions.Designer.cs">
+      <DependentUpon>Conditions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tent\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tent\Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\Location.Designer.cs">
+      <DependentUpon>Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tent\StakePlacement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\StakePlacement.Designer.cs">
+      <DependentUpon>StakePlacement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tent\TearDownTent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\TearDownTent.Designer.cs">
+      <DependentUpon>TearDownTent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tent\TentSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tent\TentSetup.Designer.cs">
+      <DependentUpon>TentSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeatherConditions.cs" />
+    <Compile Include="WeatherPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeatherPanel.Designer.cs">
+      <DependentUpon>WeatherPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AttractionInfo.resx">
+      <DependentUpon>AttractionInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanopyPanel.resx">
+      <DependentUpon>CanopyPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="energy\ClimateControlPanel.resx">
+      <DependentUpon>ClimateControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="energy\EnergyPanel.resx">
+      <DependentUpon>EnergyPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="events\EventsPanel.resx">
+      <DependentUpon>EventsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food\Checkout.resx">
+      <DependentUpon>Checkout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food\FoodList.resx">
+      <DependentUpon>FoodList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LandmarksPanel.resx">
+      <DependentUpon>LandmarksPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LightningPanel.resx">
+      <DependentUpon>LightningPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ShelterPanel.resx">
+      <DependentUpon>ShelterPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\Conditions.resx">
+      <DependentUpon>Conditions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\Location.resx">
+      <DependentUpon>Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\StakePlacement.resx">
+      <DependentUpon>StakePlacement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\TearDownTent.resx">
+      <DependentUpon>TearDownTent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tent\TentSetup.resx">
+      <DependentUpon>TentSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeatherPanel.resx">
+      <DependentUpon>WeatherPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\bulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\symbols\color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\backgrounds\tent.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

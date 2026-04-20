@@ -1,0 +1,222 @@
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου- Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - Αντιγραφή - Αντιγραφή\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Jim_z\OneDrive\Υπολογιστής\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping - χωρισ optimize\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.AttractionInfo.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.LandmarksPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.ShelterPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\Μεταπτυχιακό\Β εξάμηνο\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\SmartCamping\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.AttractionInfo.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.CanopyPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.EventsPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.Category.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.food.Checkout.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.FoodList.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.LandmarksPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.ShelterPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\Future_Camping.Conditions.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\Future_Camping.Loading.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.Location.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.StakePlacement.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.TearDownTent.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.TentSetup.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\Future_Camping.Welcome.resources
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\stefa\Desktop\dim\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\stefa\Desktop\dim\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.AttractionInfo.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.CanopyPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.EventsPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.Category.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.food.Checkout.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.FoodList.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.LandmarksPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.ShelterPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\Future_Camping.Conditions.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\Future_Camping.Loading.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.Location.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.StakePlacement.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.TearDownTent.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.TentSetup.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\Future_Camping.Welcome.resources
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\final\0.9v\SmartCamping\obj\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\SmartCamping.exe.config
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\SmartCamping.pdb
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\CircularProgressBar.dll
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\WinFormAnimation.dll
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\bin\Debug\CircularProgressBar.xml
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.AssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.exe.config
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.AttractionInfo.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.CanopyPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.ClimateControlPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.EnergyPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.EventsPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.Category.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.food.Checkout.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.FoodList.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.LandmarksPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.LightningPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.ShelterPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\Future_Camping.Conditions.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\Future_Camping.Loading.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.Location.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.StakePlacement.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.TearDownTent.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.TentSetup.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\WindowsFormsApp1.WeatherPanel.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\Future_Camping.Welcome.resources
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCam.D2B26D2E.Up2Date
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.exe
+C:\Users\Δημήτρης\Desktop\oxi_live_update\0.9v\SmartCamping\obj\Debug\SmartCamping.pdb
