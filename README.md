@@ -9,7 +9,6 @@ This repository contains the project developed for the **Human-Computer Interact
 The system acts as a small, autonomous hub providing safety, comfort, and energy management, even in remote camping locations. It allows users to control lighting, energy consumption, and weather adaptation through an advanced control panel.
 
 ## Key Features
-*
 * **Semi-Automatic Tent Setup:** Interactive interface for locating the best tent spot (based on soil/sun/humidity) and virtual guidance for stake placement and protective fabric deployment.
 * **Energy & Climate Management:** Real-time monitoring of solar panel performance, automated heating/cooling control, and energy-saving modes.
 * **Weather Adaptation:** Dynamic adjustments based on weather conditions (e.g., wind/storm alerts).
@@ -25,4 +24,4 @@ The design approach prioritizes a naturalistic environment, incorporating visual
 * **Documentation:** This project includes a User Manual, Technical Manual, and an Online Help system.
 
 ---
-*Developed for the Human-Computer Interaction course, MSc in Informatics (2024-2025).*
+*Developed for the Human-Computer Interaction course, MSc in Informatics (2025-2026).*
