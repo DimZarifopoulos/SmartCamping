@@ -26,5 +26,3 @@ The design approach prioritizes a naturalistic environment, incorporating visual
 
 ---
 *Developed for the Human-Computer Interaction course, MSc in Informatics (2025-2026).*
-=======
->>>>>>> 8c3df5c453f9d7b86eb0cf237afb1f275343f984
