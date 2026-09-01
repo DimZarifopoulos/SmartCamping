@@ -24,4 +24,4 @@ The design approach prioritizes a naturalistic environment, incorporating visual
 * **Documentation:** This project includes a User Manual, Technical Manual, and an Online Help system.
 
 ---
-*Developed for the Human-Computer Interaction course, MSc in Informatics (2025-2026).*
+*Developed as a team project for the Human-Computer Interaction course, MSc in Informatics (2025-2026).*
