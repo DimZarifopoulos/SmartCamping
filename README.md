@@ -20,7 +20,7 @@ The system acts as a small, autonomous hub providing safety, comfort, and energy
 The design approach prioritizes a naturalistic environment, incorporating visual elements like nature views, forest/sea surroundings, and an intuitive control panel to simulate a seamless user experience.
 
 ## Technical Stack
-* **Language:** [Insert your chosen language, e.g., Visual C# or Visual Basic]
+* **Language:** C#, Windows Forms.
 * **Documentation:** This project includes a User Manual, Technical Manual, and an Online Help system.
 
 ---
